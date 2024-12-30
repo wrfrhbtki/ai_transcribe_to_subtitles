@@ -7,7 +7,7 @@ def generate_srt(video_file, srt_file):
     model = whisper.load_model("base")
     result = model.transcribe(video_file, word_timestamps=True)
 
-    with open(srt_file, "w") as f:
+    with open(srt_file, "w", encoding="utf-8") as f:  # Use UTF-8 encoding
         idx = 1
         for segment in result["segments"]:
             words = segment.get("words", [])
