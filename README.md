@@ -1,4 +1,4 @@
-Subtitle Maker & Video Editor 🎬🎤
+Subtitle Maker & Video Editor 🎬🎤(No Watermark)
 Ever wanted to add subtitles to your videos with a simple click? This project lets you generate, edit, and add subtitles to any video with just a few steps. Using the power of AI, we’ll transcribe your video, then you can edit the subtitles in a cool text editor, and finally, select where you want the subtitles to appear on the screen.
 
 No more hassle with manually syncing or positioning subtitles. You just need to click on the screen where you want your subtitles to show up, and boom – your video is ready with perfectly timed and positioned captions.
